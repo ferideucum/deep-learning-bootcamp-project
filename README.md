@@ -18,7 +18,13 @@ konularında **pratik deneyim kazanması** hedeflenmektedir.
 ---
 
 ## 📂 Veri Seti Hakkında
-- Veri seti, farklı sınıflara ait görüntülerden oluşmaktadır.  
+- Bu veri yaklaşık 25.000 adet 150x150 boyutunda görüntü içeriyor ve 6 kategoriye dağıtılmış durumda.
+{'buildings' -> 0,
+'forest' -> 1,
+'glacier' -> 2,
+'mountain' -> 3,
+'sea' -> 4,
+'street' -> 5 }
 - Görseller **eğitim, doğrulama ve test seti** olarak ayrılmıştır.  
 - **Data augmentation (rotation, zoom, flip, color jitter vb.)** teknikleri kullanılarak modelin genelleme kabiliyeti artırılmıştır.  
 - **Sınıf dengesizliği** problemlerine karşı *class weight* ve ek veri artırma yöntemleri uygulanmıştır.  
