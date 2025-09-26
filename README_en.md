@@ -12,7 +12,13 @@ Participants are expected to gain practical experience in the field of deep lear
 ---
 
 ## 📂 About the Dataset
-- The dataset consists of images from multiple classes.  
+- This Data contains around 25k images of size 150x150 distributed under 6 categories.
+{'buildings' -> 0,
+'forest' -> 1,
+'glacier' -> 2,
+'mountain' -> 3,
+'sea' -> 4,
+'street' -> 5 }
 - Images are split into **training, validation, and test sets**.  
 - **Data augmentation techniques** (rotation, zoom, flip, color jitter, etc.) are applied to improve generalization.  
 - **Class imbalance issues** are handled using *class weights* and augmentation strategies.  
