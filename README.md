@@ -49,3 +49,4 @@ konularında **pratik deneyim kazanması** hedeflenmektedir.
 
 -----------------------------------------------------
 
+# Kaggle:https://www.kaggle.com/code/ferideuum/deeplearningbootcampproject
