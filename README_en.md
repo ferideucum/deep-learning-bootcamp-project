@@ -42,3 +42,4 @@ Participants are expected to gain practical experience in the field of deep lear
 - Testing the model in **real-world scenarios**  
 
 ---
+# Kaggle:https://www.kaggle.com/code/ferideuum/deeplearningbootcampproject
